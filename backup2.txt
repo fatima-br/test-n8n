@@ -1,0 +1,1 @@
+{{$json.config_content}}
